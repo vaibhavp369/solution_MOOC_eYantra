@@ -1,6 +1,6 @@
 /*! \mainpage Week-1 Experiment-1: Getting started with Embedded C Programming
  *
- * @author     e-Yantra Team
+ * @author     e-Yantra Team and VAIBHAV PATIL
  * @date       2020/02/12
  *
  * \subsection Aim
